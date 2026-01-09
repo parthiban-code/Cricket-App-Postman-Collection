@@ -1,0 +1,25 @@
+{
+  "root": ["app.js", "server.js", ".env"],
+  "config": ["db.config.js"],
+  "middlewares": ["auth.middleware.js"],
+  "routes": [
+    "user.routes.js",
+    "match.routes.js",
+    "player.routes.js",
+    "score.routes.js",
+    "stats.routes.js"
+  ],
+  "controllers": [
+    "user.controller.js",
+    "match.controller.js",
+    "player.controller.js",
+    "score.controller.js",
+    "stats.controller.js"
+  ],
+  "models": [
+    "user.model.js",
+    "match.model.js",
+    "player.model.js",
+    "score.model.js"
+  ]
+}
