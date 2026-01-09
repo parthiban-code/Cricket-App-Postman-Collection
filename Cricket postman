@@ -26,7 +26,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"mobile\":\"9994443578\",\r\n    \"password\":\"parthi2511\"\r\n}",
+					"raw": "{\r\n    \"mobile\":\"mobile.no\",\r\n    \"password\":\"******\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -55,7 +55,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"name\":\"parthi\",\r\n    \"mobile\":\"6380958036\",\r\n    \"password\":\"parthi2511\"\r\n}",
+					"raw": "{\r\n    \"name\":\"parthi\",\r\n    \"mobile\":\"mobile.no\",\r\n    \"password\":\"*****\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -101,7 +101,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"title\":\"T20 Cricket Match\",\r\n    \"teamA\":\"P.Kosavapatty\",\r\n    \"teamB\":\"Thennampatty\",\r\n    \"location\":\"P.Kosavapatty\",\r\n    \"overs\":20,\r\n    \"toss\":\"P.Kosavapatty\",\r\n    \"tossDecision\":\"bat\"\r\n}",
+					"raw": "{\r\n    \"title\":\"T20 Cricket Match\",\r\n    \"teamA\":\"Team A\",\r\n    \"teamB\":\"Team B\",\r\n    \"location\":\"YOUR_LOCATION\",\r\n    \"overs\":20,\r\n    \"toss\":\"TEAM A/ TEAM B\",\r\n    \"tossDecision\":\"bat\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -231,7 +231,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"title\":\"T20 Cricket Match\",\r\n    \"teamA\":\"P.Kosavapatty\",\r\n    \"teamB\":\"Thennampatty\",\r\n    \"location\":\"P.Kosavapatty\",\r\n    \"overs\":20,\r\n    \"toss\":\"P.Kosavapatty\",\r\n    \"tossDecision\":\"bat\"\r\n}",
+					"raw": "{\r\n    \"title\":\"T20 Cricket Match\",\r\n    \"teamA\":\"TEAM A\",\r\n    \"teamB\":\"TEAM B\",\r\n    \"location\":\"YOUR_LOCATION\",\r\n    \"overs\":20,\r\n    \"toss\":\"TEAM A / TEAM B\",\r\n    \"tossDecision\":\"bat\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
